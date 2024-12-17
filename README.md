@@ -1,4 +1,5 @@
-Hello! I'm Jeanette Crull, a full-stack developer based in Michigan! 
+# Hello! 
+I'm Jeanette Crull, a full-stack developer based in Michigan! 
 
 # What am I up to?
 - Right now, I'm in a combo of workin on Advent of Code 2024 (though that is going a *liiittle* slowly.
